@@ -1,0 +1,196 @@
+SOLD_DATE,PROPERTY_TYPE,CITY,STATE,ZIP,PRICE,BEDS,BATHS,SQUARE_FEET,LOT_SIZE,YEAR_BUILT,DAYS_ON_MARKET,HOA
+July-6-2018,Condo/Co-op,Fullerton,CA,92831,356000,2,2,933,,1964,84,285
+July-27-2018,Single Family Residential,Fullerton,CA,92832,595000,3,2.5,1559,1588,1973,63,375
+July-17-2018,Single Family Residential,Fullerton,CA,92835,760000,3,2,1902,8436,1963,73,
+July-19-2018,Townhouse,Fullerton,CA,92831,460000,3,2.5,1562,1161,1964,71,314
+July-24-2018,Single Family Residential,Fullerton,CA,92835,1100000,4,3.5,3000,12432,1964,66,
+August-8-2018,Single Family Residential,Fullerton,CA,92831,595000,3,1.75,1252,6000,1955,51,
+August-8-2018,Single Family Residential,Fullerton,CA,92831,780000,3,2,1792,11000,1960,51,
+July-31-2018,Single Family Residential,Fullerton,CA,92831,600000,3,3,1596,8559,1954,59,
+August-22-2018,Condo/Co-op,Fullerton,CA,92835,465000,3,2.25,1321,,1973,37,370
+August-10-2018,Single Family Residential,Fullerton,CA,92835,725000,3,2,1452,7020,1977,49,
+August-29-2018,Single Family Residential,Fullerton,CA,92835,985000,3,1.75,2299,16638,1959,30,
+July-20-2018,Single Family Residential,Fullerton,CA,92835,795000,4,3,2830,9660,1977,70,
+September-17-2018,Condo/Co-op,Fullerton,CA,92835,340000,2,2,851,,1977,11,335
+September-19-2018,Single Family Residential,Fullerton,CA,92831,633000,4,2,1500,7350,1956,9,
+July-19-2018,Single Family Residential,Fullerton,CA,92835,1600000,4,3.5,3000,19680,1956,71,
+July-26-2018,Single Family Residential,Fullerton,CA,92832,649000,4,3,1821,2442,2013,64,118
+August-3-2018,Single Family Residential,Fullerton,CA,92833,500000,1,1.5,1081,6200,1950,56,
+August-8-2018,Single Family Residential,Fullerton,CA,92833,1280000,4,3.5,4190,17550,1984,51,
+August-10-2018,Single Family Residential,Fullerton,CA,92833,540000,3,1,1053,6026,1950,49,
+July-31-2018,Condo/Co-op,Fullerton,CA,92833,452000,2,2.5,1178,,1971,59,330
+July-10-2018,Townhouse,Fullerton,CA,92831,440000,2,2,1203,,1973,80,336
+July-25-2018,Condo/Co-op,Fullerton,CA,92835,270000,1,1,676,,1977,65,315
+September-21-2018,Condo/Co-op,Fullerton,CA,92835,340000,1,1.5,831,,1976,7,400
+July-18-2018,Single Family Residential,Fullerton,CA,92832,800000,4,1.75,2045,8800,1971,72,
+July-30-2018,Single Family Residential,Fullerton,CA,92835,1250000,4,4,2738,19500,1962,60,
+August-10-2018,Single Family Residential,Fullerton,CA,92832,849000,3,2,2348,11625,1927,49,
+August-28-2018,Single Family Residential,Fullerton,CA,92835,1137750,4,3.5,2628,18792,1962,31,
+September-21-2018,Single Family Residential,Fullerton,CA,92832,750000,3,1.75,1969,7500,1971,7,
+August-21-2018,Single Family Residential,Fullerton,CA,92835,547250,3,2,1117,2800,1973,38,161
+September-14-2018,Single Family Residential,Fullerton,CA,92835,1298000,5,2.5,3654,7490,2000,14,235
+June-30-2018,Single Family Residential,Fullerton,CA,92831,597000,3,2,1418,7493,1961,90,
+July-10-2018,Condo/Co-op,Fullerton,CA,92832,555000,2,2.5,1819,1819,2006,80,255
+July-3-2018,Single Family Residential,Fullerton,CA,92832,605000,3,2,1309,7490,1955,87,
+July-15-2018,Single Family Residential,Fullerton,CA,92831,563000,3,1.5,1112,6800,1954,75,
+July-11-2018,Single Family Residential,Fullerton,CA,92831,569000,4,1.5,1368,7700,1954,79,
+July-25-2018,Single Family Residential,Fullerton,CA,92831,570000,3,2,1252,8160,1955,65,
+July-24-2018,Single Family Residential,Fullerton,CA,92833,563000,3,2,1290,6581,1955,66,
+July-26-2018,Single Family Residential,Fullerton,CA,92831,890000,3,2.5,2252,21000,1971,64,
+July-25-2018,Condo/Co-op,Fullerton,CA,92832,578000,3,3,1819,1819,2006,65,255
+August-6-2018,Single Family Residential,Fullerton,CA,92831,837500,3,2,2191,7000,1976,53,189
+August-22-2018,Single Family Residential,Fullerton,CA,92831,975000,4,3,2793,33440,1966,37,
+August-14-2018,Single Family Residential,Fullerton,CA,92833,615000,2,1,1008,8075,1926,45,
+August-14-2018,Single Family Residential,Fullerton,CA,92832,585000,4,1.5,1382,6359,1955,45,
+August-14-2018,Townhouse,Fullerton,CA,92831,560000,3,2.5,1763,2400,1975,45,230
+August-9-2018,Single Family Residential,Fullerton,CA,92831,450000,2,1,640,5000,1930,50,
+August-31-2018,Single Family Residential,Fullerton,CA,92832,529000,2,0.75,1088,7000,1919,28,
+September-5-2018,Townhouse,Fullerton,CA,92832,605000,4,2,1625,5227,1963,23,
+September-5-2018,Single Family Residential,Fullerton,CA,92831,615000,3,2,1300,6968,1958,23,
+September-10-2018,Single Family Residential,Fullerton,CA,92831,1987000,4,3.25,4522,60984,1978,18,
+September-10-2018,Single Family Residential,Fullerton,CA,92831,1133550,4,2.5,3096,22100,1976,18,
+September-14-2018,Single Family Residential,Fullerton,CA,92831,1110000,4,2.5,2201,10160,1975,14,105
+September-7-2018,Single Family Residential,Fullerton,CA,92835,1040000,4,3.25,2251,26600,1950,21,
+July-17-2018,Single Family Residential,Fullerton,CA,92835,900000,3,2.5,2154,3941,2002,73,222
+August-7-2018,Single Family Residential,Fullerton,CA,92835,631000,3,2,1562,16748,1951,52,
+August-8-2018,Single Family Residential,Fullerton,CA,92835,630000,3,2.5,2310,2845,1979,51,430
+August-8-2018,Condo/Co-op,Fullerton,CA,92832,600000,3,2.5,1693,,2014,51,141
+August-14-2018,Single Family Residential,Fullerton,CA,92835,938000,3,2.5,2032,17264,1962,45,
+August-10-2018,Townhouse,Fullerton,CA,92831,480000,2,2.5,1150,100,1980,49,325
+July-25-2018,Single Family Residential,Fullerton,CA,92835,739000,4,2,1891,7380,1977,65,
+August-27-2018,Single Family Residential,Fullerton,CA,92835,1500000,5,4.5,4337,13848,2002,32,180
+September-10-2018,Single Family Residential,Fullerton,CA,92835,1065000,4,2.5,2279,24570,1960,18,
+September-18-2018,Single Family Residential,Fullerton,CA,92831,672000,3,1.75,1427,7659,1962,10,
+September-24-2018,Single Family Residential,Fullerton,CA,92835,730000,5,3,2234,10170,1962,4,
+July-2-2018,Single Family Residential,Fullerton,CA,92831,750000,4,3,2416,9000,1930,88,
+July-12-2018,Single Family Residential,Fullerton,CA,92835,1050000,4,2.5,2546,19740,1964,78,
+September-13-2018,Townhouse,Fullerton,CA,92831,486500,2,2.5,1150,2,1980,15,325
+September-26-2018,Condo/Co-op,Fullerton,CA,92835,473500,3,2.5,1267,1267,1973,2,370
+September-24-2018,Condo/Co-op,Fullerton,CA,92831,490000,3,2.5,1652,1742,1973,4,392
+July-5-2018,Single Family Residential,Fullerton,CA,92831,900000,4,3,2400,10240,1951,85,
+July-6-2018,Single Family Residential,Fullerton,CA,92831,633750,3,1.75,1578,7680,1955,84,
+August-20-2018,Single Family Residential,Fullerton,CA,92831,789000,4,2,2151,14400,1961,39,
+August-9-2018,Condo/Co-op,Fullerton,CA,92832,445000,2,2.5,1092,,1984,50,200
+August-24-2018,Condo/Co-op,Fullerton,CA,92831,290000,1,1,677,,1965,35,295
+August-15-2018,Single Family Residential,Fullerton,CA,92831,725000,4,2,1579,7200,1963,44,
+August-31-2018,Single Family Residential,Fullerton,CA,92831,645000,3,1.75,1221,6124,1950,28,
+August-31-2018,Townhouse,Fullerton,CA,92831,440000,2,1.5,1202,,1979,28,385
+September-7-2018,Condo/Co-op,Fullerton,CA,92831,521000,3,2.5,1563,,1979,21,385
+September-14-2018,Single Family Residential,Fullerton,CA,92831,756000,4,2.5,2109,7083,1963,14,
+July-12-2018,Single Family Residential,Fullerton,CA,92832,985000,5,3,2693,8100,1969,78,
+August-20-2018,Single Family Residential,Fullerton,CA,92833,690000,4,2,1854,6510,1949,39,
+August-20-2018,Single Family Residential,Fullerton,CA,92832,1040000,4,4.25,2578,7000,1940,39,
+August-3-2018,Single Family Residential,Fullerton,CA,92832,520000,3,1,1007,7500,1922,56,
+September-10-2018,Condo/Co-op,Fullerton,CA,92832,147000,0,1,340,,1985,18,230
+September-18-2018,Single Family Residential,Fullerton,CA,92831,660000,3,2,1329,6490,1953,10,
+September-21-2018,Single Family Residential,Fullerton,CA,92835,768000,4,2.5,2290,9052,1967,7,
+July-2-2018,Condo/Co-op,Fullerton,CA,92832,610000,3,2.5,1693,,2014,88,135
+July-18-2018,Single Family Residential,Fullerton,CA,92832,550000,3,1,1273,6363,1954,72,
+August-22-2018,Condo/Co-op,Fullerton,CA,92835,195000,1,1,501,1,1992,37,190
+August-15-2018,Single Family Residential,Fullerton,CA,92832,550000,3,1.5,1103,7128,1954,44,
+August-29-2018,Single Family Residential,Fullerton,CA,92833,558000,4,2,1734,7635,1955,30,
+September-7-2018,Single Family Residential,Fullerton,CA,92832,1265000,5,4,2850,7000,1928,21,
+September-25-2018,Condo/Co-op,Fullerton,CA,92832,545000,2,2.5,1712,,2008,3,255
+September-27-2018,Single Family Residential,Fullerton,CA,92833,801000,3,2,1702,10580,1959,1,
+July-10-2018,Single Family Residential,Fullerton,CA,92832,520000,4,2,1308,7128,1954,80,
+July-6-2018,Single Family Residential,Fullerton,CA,92835,1250000,5,3.5,3917,17745,1964,84,
+July-13-2018,Single Family Residential,Fullerton,CA,92833,718000,3,1.75,2161,11713,1946,77,
+July-27-2018,Single Family Residential,Fullerton,CA,92835,900000,5,3,2860,8800,1964,63,
+July-24-2018,Condo/Co-op,Fullerton,CA,92833,455000,3,2,1178,,1971,66,416
+July-24-2018,Condo/Co-op,Fullerton,CA,92833,435000,2,2.5,1198,,1971,66,416
+July-27-2018,Single Family Residential,Fullerton,CA,92832,575000,3,1.75,1467,2757,1973,63,375
+July-31-2018,Single Family Residential,Fullerton,CA,92832,1020000,6,4,4200,20909,1928,59,
+July-30-2018,Single Family Residential,Fullerton,CA,92835,940000,3,2.5,1876,22470,1960,60,
+August-8-2018,Single Family Residential,Fullerton,CA,92833,805000,4,3,2080,10900,1972,51,
+August-13-2018,Single Family Residential,Fullerton,CA,92835,1075000,4,3,3300,8500,1930,46,
+September-20-2018,Single Family Residential,Fullerton,CA,92833,1070000,4,4,3679,8400,1960,8,
+September-5-2018,Single Family Residential,Fullerton,CA,92832,633000,2,1,1159,7500,1943,23,
+July-3-2018,Single Family Residential,Fullerton,CA,92832,572000,3,2,1340,7560,1955,87,
+July-17-2018,Single Family Residential,Fullerton,CA,92831,765000,4,2.5,2710,23616,1958,73,
+July-17-2018,Single Family Residential,Fullerton,CA,92831,570000,3,1.75,1072,6741,1953,73,
+July-27-2018,Condo/Co-op,Fullerton,CA,92831,485900,2,2.5,1150,,1980,63,325
+July-23-2018,Single Family Residential,Fullerton,CA,92831,560000,3,1,1104,6250,1925,67,
+August-17-2018,Single Family Residential,Fullerton,CA,92831,1140000,5,2.5,2877,11900,1962,42,
+August-17-2018,Condo/Co-op,Fullerton,CA,92831,269000,1,1,677,400,1965,42,295
+August-9-2018,Condo/Co-op,Fullerton,CA,92831,500000,4,2.5,1652,200,1974,50,393
+August-23-2018,Single Family Residential,Fullerton,CA,92831,730000,3,2.5,1618,10002,1960,36,
+August-14-2018,Single Family Residential,Fullerton,CA,92835,665000,2,1.75,1563,8080,1956,45,
+September-11-2018,Single Family Residential,Fullerton,CA,92831,754000,3,2,1834,10312,1956,17,
+September-20-2018,Single Family Residential,Fullerton,CA,92831,1225000,3,2.5,3111,20020,1964,8,
+September-20-2018,Condo/Co-op,Fullerton,CA,92832,359500,2,2,1157,1157,1963,8,314
+September-19-2018,Condo/Co-op,Fullerton,CA,92835,325000,1,1.5,831,1000,1976,9,390
+September-5-2018,Single Family Residential,Fullerton,CA,92835,565000,3,1.5,1021,7210,1958,23,
+September-27-2018,Single Family Residential,Fullerton,CA,92831,1435000,3,2.5,2675,35400,1973,1,
+September-10-2018,Single Family Residential,Fullerton,CA,92835,1195000,4,2.5,2872,21000,1963,18,
+July-5-2018,Single Family Residential,Fullerton,CA,92835,869000,4,3,2412,8033,1964,85,
+July-24-2018,Single Family Residential,Fullerton,CA,92835,639000,3,2,1286,9991,1959,66,
+July-26-2018,Single Family Residential,Fullerton,CA,92835,689000,3,2,1756,10001,1959,64,
+August-17-2018,Single Family Residential,Fullerton,CA,92835,519000,3,2,1117,2800,1972,42,161
+August-28-2018,Single Family Residential,Fullerton,CA,92835,685000,3,3,2023,2520,1977,31,430
+September-4-2018,Single Family Residential,Fullerton,CA,92835,718000,3,2.25,2320,5520,1975,24,495
+September-25-2018,Condo/Co-op,Fullerton,CA,92835,295000,1,1,676,,1977,3,325
+July-18-2018,Single Family Residential,Fullerton,CA,92835,853900,4,2.75,2041,3018,2018,72,260
+July-9-2018,Single Family Residential,Fullerton,CA,92835,1025000,5,3,2949,13000,1968,81,
+July-16-2018,Single Family Residential,Fullerton,CA,92831,1108000,4,2,2013,42190,1962,74,
+July-20-2018,Single Family Residential,Fullerton,CA,92835,1078000,4,3,2860,8431,1997,70,300
+August-20-2018,Single Family Residential,Fullerton,CA,92835,1125000,4,2.75,3307,6600,1987,39,155
+August-21-2018,Single Family Residential,Fullerton,CA,92831,990000,4,2,2682,10944,1954,38,
+August-14-2018,Single Family Residential,Fullerton,CA,92831,757000,3,2,1847,10080,1965,45,
+August-31-2018,Single Family Residential,Fullerton,CA,92835,655000,3,3,2126,2520,1978,28,430
+September-20-2018,Single Family Residential,Fullerton,CA,92835,565500,3,2,1617,5310,1973,8,425
+September-24-2018,Single Family Residential,Fullerton,CA,92835,894000,3,2.5,2411,4818,2002,4,222
+September-26-2018,Single Family Residential,Fullerton,CA,92835,1125000,5,4,2832,10458,1964,2,
+July-5-2018,Single Family Residential,Fullerton,CA,92831,629000,3,1,1164,7688,1950,85,
+July-2-2018,Condo/Co-op,Fullerton,CA,92831,470000,2,2.5,1563,,1979,88,385
+August-29-2018,Condo/Co-op,Fullerton,CA,92831,295800,1,1,677,,1965,30,295
+September-3-2018,Single Family Residential,Fullerton,CA,92833,569000,3,1.5,1601,7600,1955,25,
+September-4-2018,Single Family Residential,Fullerton,CA,92831,830000,5,2,2084,7200,1963,24,
+September-12-2018,Single Family Residential,Fullerton,CA,92831,495000,3,2,1515,4959,1936,16,
+September-13-2018,Single Family Residential,Fullerton,CA,92832,561000,2,1.5,1132,5500,1923,15,
+September-21-2018,Single Family Residential,Fullerton,CA,92833,575000,3,2,1290,6600,1957,7,
+August-10-2018,Single Family Residential,Fullerton,CA,92833,620000,3,2,1670,7000,1956,49,
+July-2-2018,Single Family Residential,Fullerton,CA,92832,740000,4,3,2381,2894,2014,88,118
+September-21-2018,Single Family Residential,Fullerton,CA,92832,560000,4,1.75,1390,6089,1955,7,
+September-25-2018,Condo/Co-op,Fullerton,CA,92832,559000,3,2.5,1855,,2013,3,217
+September-7-2018,Single Family Residential,Fullerton,CA,92835,948500,3,4,2371,12960,1954,21,
+July-6-2018,Single Family Residential,Fullerton,CA,92831,580000,3,2.5,1763,2528,1975,84,205
+July-25-2018,Single Family Residential,Fullerton,CA,92831,580000,3,1.5,1060,6233,1954,65,
+August-29-2018,Single Family Residential,Fullerton,CA,92831,620000,3,2,2200,7609,1955,30,
+August-29-2018,Condo/Co-op,Fullerton,CA,92831,430000,2,1.75,1149,,1969,30,400
+August-31-2018,Single Family Residential,Fullerton,CA,92831,745000,3,2,1520,7800,1972,28,
+August-31-2018,Single Family Residential,Fullerton,CA,92835,686000,3,2,1286,9440,1966,28,
+July-13-2018,Condo/Co-op,Fullerton,CA,92832,375000,2,2,1157,,1963,77,314
+August-28-2018,Single Family Residential,Fullerton,CA,92833,615000,5,2.5,1887,7797,1954,31,
+August-29-2018,Single Family Residential,Fullerton,CA,92832,675000,3,2,1300,6250,1918,30,
+August-31-2018,Townhouse,Fullerton,CA,92832,1100000,6,5,3071,12197,1929,28,
+September-20-2018,Condo/Co-op,Fullerton,CA,92832,142439,0,1,392,,1984,8,230
+July-2-2018,Townhouse,Fullerton,CA,92835,535000,3,2.5,2310,2845,1980,88,430
+July-5-2018,Single Family Residential,Fullerton,CA,92831,902500,5,3,2630,11455,1965,85,
+July-25-2018,Townhouse,Fullerton,CA,92835,560000,3,3,2179,2520,1980,65,430
+July-20-2018,Single Family Residential,Fullerton,CA,92831,700000,3,2,1374,8400,1955,70,
+July-24-2018,Single Family Residential,Fullerton,CA,92835,810000,3,2.5,1930,9360,1956,66,
+July-24-2018,Single Family Residential,Fullerton,CA,92835,835000,3,1.75,1980,8250,1951,66,
+August-20-2018,Single Family Residential,Fullerton,CA,92835,900000,5,4,2954,9429,1968,39,
+August-20-2018,Condo/Co-op,Fullerton,CA,92832,385000,2,2,1157,,1963,39,314
+August-22-2018,Single Family Residential,Fullerton,CA,92835,698800,3,2,1288,10000,1959,37,
+July-31-2018,Single Family Residential,Fullerton,CA,92831,760000,2,1,1260,5162,1929,59,
+August-7-2018,Townhouse,Fullerton,CA,92835,1550000,9,8,5246,8276,1966,52,
+August-24-2018,Single Family Residential,Fullerton,CA,92835,1145000,4,3,3197,6613,2003,35,228
+August-24-2018,Single Family Residential,Fullerton,CA,92831,795000,3,1.75,1923,10086,1962,35,
+August-24-2018,Single Family Residential,Fullerton,CA,92835,840000,3,2.5,1954,11904,1962,35,
+August-27-2018,Condo/Co-op,Fullerton,CA,92832,310000,1,1,881,,1963,32,280
+August-27-2018,Single Family Residential,Fullerton,CA,92832,525000,3,1.75,1400,4725,1929,32,
+August-29-2018,Single Family Residential,Fullerton,CA,92832,905000,4,2.5,1932,8400,1922,30,
+September-5-2018,Townhouse,Fullerton,CA,92831,461000,2,2.5,1150,,1979,23,325
+September-14-2018,Single Family Residential,Fullerton,CA,92831,1200000,3,3.25,3300,23800,1963,14,
+September-18-2018,Single Family Residential,Fullerton,CA,92835,1150000,5,4.5,3934,23920,1968,10,
+September-26-2018,Condo/Co-op,Fullerton,CA,92835,500000,3,2,1500,1,1978,2,345
+July-26-2018,Single Family Residential,Fullerton,CA,92835,710000,4,2,1937,7980,1964,64,
+July-26-2018,Single Family Residential,Fullerton,CA,92835,820000,4,2.5,1910,8400,1971,64,
+August-3-2018,Single Family Residential,Fullerton,CA,92833,740000,3,1.75,1479,8760,1972,56,
+August-10-2018,Single Family Residential,Fullerton,CA,92835,675000,3,2,1440,7350,1963,49,
+August-13-2018,Townhouse,Fullerton,CA,92835,515000,3,2.5,1296,,1974,46,370
+September-17-2018,Condo/Co-op,Fullerton,CA,92835,460000,2,2,1215,1215,1976,11,400
+September-24-2018,Single Family Residential,Fullerton,CA,92835,1175000,4,3,3008,6543,2003,4,228
+July-3-2018,Single Family Residential,Fullerton,CA,92835,1370000,5,4.5,3765,10010,2000,87,350
+July-24-2018,Single Family Residential,Fullerton,CA,92832,1150000,3,3.5,4178,18270,1956,66,
